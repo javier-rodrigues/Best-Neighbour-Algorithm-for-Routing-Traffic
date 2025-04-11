@@ -1,6 +1,7 @@
 # Best-Neighbour-Algorithm-for-Routing-Traffic
 
-Worked in a team of 5 to design and implement an intelligent traffic routing simulation based on a custom Best Neighbour Algorithm for Routing Traffic (BNART). The project modeled a multi-agent transportation system where a Central Traffic Control Unit (CTCU) optimized vehicle paths across a randomized 20-node road network.
+Worked in a team of 5 to design and implement an intelligent traffic routing simulation based on a custom Best Neighbour Algorithm for Routing Traffic (BNART). The project modeled a multi-agent transportation system where a Central Traffic Control Unit (CTCU) optimized vehicle paths across a randomized 20-node road network. Based on the paper BNART: A Novel Centralized Traffic Management
+ Approach for Autonomous Vehicles, by Dariush Ebrahimi.
 
 ![image](https://github.com/user-attachments/assets/c83e47df-0f0c-4fdf-8f7a-0e64a666e2c6)
 
